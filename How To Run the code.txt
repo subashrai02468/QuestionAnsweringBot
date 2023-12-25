@@ -1,0 +1,6 @@
+
+ Run the website using :
+
+python QuestionAnsweringBot.py
+
+and after that click the given http server link in the debugging terminal
