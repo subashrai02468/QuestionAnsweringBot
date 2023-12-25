@@ -14,11 +14,11 @@ Users can paste their document text and type in their questions into the provide
 
 ## Installation and Usage
 1. **Clone the Repository**
-2. **Run QuestionAnsweringBot.py**: Execute the script using `python QuestionAnsweringBot.py`.
+2. **Download dependencies files and Run QuestionAnsweringBot.py**: Execute the script using `python QuestionAnsweringBot.py`.
 3. **Access the Application**: After running, navigate to the local web server address given 
 
 ## Requirements
-All dependencies are already installed, including:
+All dependencies need to be downloaded:
 - Python 3.x
 - Flask
 - Hugging Face Transformers Library
